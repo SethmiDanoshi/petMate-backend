@@ -92,9 +92,3 @@ You can test endpoints using [Postman](https://www.postman.com/) or tools like I
 
 Maintained by **Sethmi Danoshi**  
 📧 Email: `sethmidanoshi06@gmail.com`
-
-```
-
----
-
-Let me know when you're ready to set up your Spring Boot folders or create the first controller or model!
