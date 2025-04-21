@@ -21,11 +21,9 @@ Welcome to the backend repository for **PetMate** — an all-in-one pet care and
 ## 🧠 Key Features
 
 - 🐕 Pet profile creation & management
-- 🏥 Pet health records, vaccination tracking
-- 📅 Vet/groomer appointment scheduling
+- 🏥 Pet health records
+- 📅 Vet appointment scheduling
 - 🧑‍⚕️ Service provider management dashboard
-- 📍 Lost & Found pet alert system
-- 🐾 Pet adoption listings
 - 🔔 Automated email/SMS notifications & reminders
 - 📈 Admin dashboard (optional for analytics/monitoring)
 
